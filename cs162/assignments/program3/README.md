@@ -97,4 +97,3 @@ In order to submit your homework assignment, you must create a tarred archive th
 ```
 tar -cvf assign3.tar list_of_all_the_.h_and_.cpp_files Makefile
 ```
-Note: I simplified the requirements for this first homework assignment. You do not have to divide your code into separate files (everything can be contained in a single .cpp file). A Makefile is also optional for the first homework assignment.
