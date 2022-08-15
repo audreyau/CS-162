@@ -1,3 +1,4 @@
+# Simplifying Athletic Records
 ## Introductory Information
 According to a [2019 survey](https://www.nfhs.org/media/1020412/2018-19_participation_survey.pdf ) by the National Federation of State High School Associations, football is one of Oregon's most popular sports for students in high school. Online spreadsheets are available that contain 100 years of high school football records. In this project you will be processing historical data and presenting it in a form that is more user friendly.<br/>
 
