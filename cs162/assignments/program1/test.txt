@@ -1,0 +1,19 @@
+4
+Crescent Valley;Raiders;Corvallis;3
+2020;100;North Albany;100
+2021;200;Philomath High;3
+2021;300;Corvallis High School;0
+North Albany;Tigers;Albany;4
+1980;5;South Albany;6
+1981;4;East Albany;4
+1982;7;West Albany;6
+1983;4;Albany;3
+Franklin;Phoenix;Corvegas;2
+2000;16;Cheldelin;5
+2010;26;Linus Pauling;73
+Oregon State;Beavers;Corvallis;5
+1999;22;South California;22
+1999;25;Harvard;25
+1999;38;Stanford;38
+2000;71;Columbia;71
+2000;28;Washington;28
