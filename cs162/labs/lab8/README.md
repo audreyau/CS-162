@@ -18,7 +18,7 @@ Like last time, we will be constructing objects and assigning them a name.
 Meerkat mk5(“Leo”);
 ```
 
-**Storing Meerkats into the container (Approach #1)**
+### Storing Meerkats into the container (Approach #1)
 First we need to create a forward_list to hold the meerkats. We will then push a user
 specified number of items into the front of the forward_list.
 
@@ -69,7 +69,7 @@ int main () {
 }
 ```
 
-**Storing Meerkats at the end of the container (Approach #2)**
+### Storing Meerkats at the end of the container (Approach #2)
 Use [insert_after()](http://www.cplusplus.com/reference/forward_list/forward_list/insert_after/) to insert **num** Meerkat objects into the end of list2. This is more
 difficult than it seems at first.
 I recommend that you use an iterator to iterate to the last element in the forward_list
