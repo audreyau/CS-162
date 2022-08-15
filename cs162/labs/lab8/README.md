@@ -72,11 +72,15 @@ int main () {
 ### Storing Meerkats at the end of the container (Approach #2)
 Use [insert_after()](http://www.cplusplus.com/reference/forward_list/forward_list/insert_after/) to insert **num** Meerkat objects into the end of list2. This is more
 difficult than it seems at first.
+
 I recommend that you use an iterator to iterate to the last element in the forward_list
 and then insert the Meerkat. This will involve a **for** or **while** loop.
+
 Be sure to time this operation and display the information for the user. Try inputting
 progressively larger values of num to see the effects of the two algorithms (1000, 5000,
 20000, 50000, etc).
+
 Explain to the TA or the instructor why this approach takes so much more time.
+
 What is the computational complexity of this task? Express your answer in Big O
 notation.
