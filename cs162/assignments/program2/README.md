@@ -123,4 +123,8 @@ g++ -std=c++11 //other flags and parameters
 In order to submit your homework assignment, you must create a tarred archive that contains any .h and .cpp files that you wrote. You also need to include a Makefile. This tar file will be submitted to Canvas. In order to create the tar file, use this approach (where the first parameter is the desired output file name):
 
 ```
-tar -cvf assign2.tar list_of_all_the_.h_and_.cpp_files Makefile```
+tar -cvf assign2.tar list_of_all_the_.h_and_.cpp_files Makefile
+```
+
+# My Output
+![imgonline-com-ua-twotoone-tTlC05UdZr4 (1)](https://user-images.githubusercontent.com/52758047/184731187-4226537a-f404-4479-9c89-2c9aee15f59b.jpg)
