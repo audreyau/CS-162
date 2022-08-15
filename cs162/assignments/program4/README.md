@@ -127,3 +127,7 @@ In order to submit your homework assignment, you must create a tarred archive th
 ```
 tar –cvf assign4.tar list_of_all_the_.h_and_.cpp_files Makefile
 ```
+
+# My Output
+![imgonline-com-ua-twotoone-993MQr2J1i11d](https://user-images.githubusercontent.com/52758047/184733048-2dc93c07-2689-4c17-af42-3b78181d0d94.jpg)
+
