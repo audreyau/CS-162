@@ -91,9 +91,10 @@ Remember, the percepts don’t tell you where the hazard or gold is, just that i
 - Hunt the Chimera is a game all about hiding information from the player, which might make it hard to debug! Your life will be easier if you implement the debugging mode first and then finish your implementation of the final version
 
 ## Extra Credit
-In addition to the requirements above, you may earn extra credit as follows:
-- (6 points) Implement a custom class that plays the game for you. This class should use the same interface to the game that the player does. That is, it should use percepts to learn about the world and make decisions.
-Implementation Details
+~~In addition to the requirements above, you may earn extra credit as follows:~~
+- ~~(6 points) Implement a custom class that plays the game for you. This class should use the same interface to the game that the player does. That is, it should use percepts to learn about the world and make decisions.~~
+
+## Implementation Details
 As with the previous program, you have additional freedom to design your own implementation. There are certain baseline requirements as specified in this document. However, the exact member functions and member variables are up to you.
 
 Be sure to design your program on paper. Use scratch paper with flow charts or pseudo-code. In particular, think of how your program will flow. What will the constructors do? How will you pass objects and variables between different classes? Taking the time to do a thorough program design can save you hours of frustrating debugging time!
