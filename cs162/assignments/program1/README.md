@@ -1,5 +1,5 @@
 ## Introductory Information
-According to a [2019 survey] (https://www.nfhs.org/media/1020412/2018-19_participation_survey.pdf) by the National Federation of State High School Associations, football is one of Oregon's most popular sports for students in high school. Online spreadsheets are available that contain 100 years of high school football records. In this project you will be processing historical data and presenting it in a form that is more user friendly.<br/>
+According to a [2019 survey](https://www.nfhs.org/media/1020412/2018-19_participation_survey.pdf ) by the National Federation of State High School Associations, football is one of Oregon's most popular sports for students in high school. Online spreadsheets are available that contain 100 years of high school football records. In this project you will be processing historical data and presenting it in a form that is more user friendly.<br/>
 
 Your employer has provided you with text files that contain information about various high schools and corresponding football matches. You will use C++ to parse the provided text file and read the information into variables that are useful for your design. The remainder of this document explains what your program needs to accomplish.
 
@@ -81,7 +81,7 @@ Your program must accommodate the file format as specified in this section. The 
 
 Each input file will follow the format shown below.
 
-A sample file is available for download [here]([https://pages.github.com/](https://web.engr.oregonstate.edu/~goinsj/resources/CS162_U22/assignments/athletic_records/sample_1.txt)
+A sample file is available for download [here](https://web.engr.oregonstate.edu/~goinsj/resources/CS162_U22/assignments/athletic_records/sample_1.txt). 
 Important observation: a semicolon is used to separate the individual fields on each line.
 ```
 <total number of schools in file (integer)>
@@ -159,7 +159,7 @@ Quit (Press 4):
 4
 ```
 ## Programming Style/Comments
-In your implementation, make sure that you include a program header. Also ensure that you use proper indentation/spacing and include comments! Below is an example header to include. Make sure you review the [style guidelines for this class] (https://web.engr.oregonstate.edu/~goinsj/resources/general/cpp_style_guideline.pdf), and begin trying to follow them, i.e. don’t align everything on the left or put everything on one line!
+In your implementation, make sure that you include a program header. Also ensure that you use proper indentation/spacing and include comments! Below is an example header to include. Make sure you review the [style guidelines for this class](https://web.engr.oregonstate.edu/~goinsj/resources/general/cpp_style_guideline.pdf), and begin trying to follow them, i.e. don’t align everything on the left or put everything on one line!
 
 ```
 /******************************************************
